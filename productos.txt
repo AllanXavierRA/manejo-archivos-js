@@ -1,0 +1,1 @@
+{"title":"laptop","price":1500,"thumbnail":"url"}
